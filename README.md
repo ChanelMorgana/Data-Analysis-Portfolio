@@ -45,7 +45,7 @@ Analyzed 100,000 rows of retail transactions, enriched the dataset for demograph
 - **Data Enrichment**:
   - Added `State` column for demographic breakdown.
   - Created a `Products` table by separating items per transaction.
-  - Added product count per transaction for analysis.
+  - Added Product Count per Product Type
 - **Interactive Tableau Dashboard**:
   - **KPIs**: Total Transactions, Total Revenue
   - **Line Chart**: Revenue per Store Type
